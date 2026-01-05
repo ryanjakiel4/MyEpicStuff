@@ -1,0 +1,7 @@
+use torch on spaceship
+matthew
+Ah, let's see if this'll work.
+Sir, that fire looks very hot, be careful!
+Tec, i'll be fine... OUCH!
+I would have not advised that you stick your hand in the fire like that, sir.
+Thanks, tec. Good to know, but at least the torch is lit now.

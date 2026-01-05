@@ -1,0 +1,3 @@
+use key on door
+tec
+the key fit perfectly, sir. the door to the house is now unlocked.

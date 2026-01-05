@@ -1,0 +1,3 @@
+take key
+tec
+Key taken.

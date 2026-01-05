@@ -1,0 +1,3 @@
+use missile on crab
+tec
+The missile has been launched, and the crab was removed from the track.

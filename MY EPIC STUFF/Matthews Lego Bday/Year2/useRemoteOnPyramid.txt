@@ -1,0 +1,7 @@
+use remote on pyramid
+tec
+The remote seems to work with the grappling hook mechanism.
+So i can lower the hook and climb the rope to enter the pyramid?
+Correct, sir.
+Awesome!
+All that's up here is a guy holding some dynamite, sir.  If you would like to talk to him, you will have to input talk to guy in pyramid.

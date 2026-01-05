@@ -1,0 +1,3 @@
+use thruster on spaceship
+tec
+the thruster has been added to the spaceship, sir.

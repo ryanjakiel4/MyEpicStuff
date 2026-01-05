@@ -1,0 +1,17 @@
+crash
+matthew
+...Where are we?
+It seems you have crash landed in an unknown area, sir.
+Thanks, TEC.  Hope it didn’t take you too long to figure that out.
+Don’t worry, sir, it took less than a second.  I am a computer after all.
+(I always wish I had programmed in a sense of humor...) Well we better work on getting this back up and running. I can’t be late to pick up my gift from Ryan.
+That may take longer than usual, sir. Five parts of your ship were lost in the crash and we cannot leave until we locate them.
+What parts?
+Your dome windshield, a thruster, a lever, an oxygen hose, and your power source.
+Any idea where the parts are?
+No sir.
+Alright, better get started...what's the deal with the train tracks on this planet, tec?
+It appears to me, sir, that the world you crashed on is split between 8 train stations.  You are currently on station 0, and the remaining stations are labeled on the map above.
+Okay, i think i got it.  Well no use standing here, i have to find those parts!
+Sir, there are a few things you are going to need to know before you begin. There are three key commands you may type to interact with the world. “Check ___” can be used to gain info on objects, but if you type just “Check”, then you will receive general info about the station you are at. “Take ___” and “Use ___ on ___” are two other commands you have to interact with objects on this world as you see fit.
+Sounds good, tec.  Let's get moving!

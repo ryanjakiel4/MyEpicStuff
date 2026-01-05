@@ -1,0 +1,3 @@
+use cartridge 3 on tv
+tec
+Game 3 started.

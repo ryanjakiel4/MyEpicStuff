@@ -1,0 +1,3 @@
+use shovel on bricks
+tec
+bricks dug.

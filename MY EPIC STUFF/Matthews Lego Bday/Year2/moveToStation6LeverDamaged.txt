@@ -1,0 +1,3 @@
+move to station 6
+tec
+we cannot go to station 6 as the levers to change the track's direction are missing.

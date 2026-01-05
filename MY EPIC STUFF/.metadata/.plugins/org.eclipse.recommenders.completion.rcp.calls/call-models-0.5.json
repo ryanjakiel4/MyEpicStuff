@@ -1,0 +1,7 @@
+{
+  "/opt/oracle-jdk-bin-1.7.0.45/jre/lib/rt.jar": {
+    "location": "/opt/oracle-jdk-bin-1.7.0.45/jre/lib/rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/opt/oracle-jdk-bin-1.7.0.45/jre/lib/rt.jar\u0027. Skipped."
+  }
+}

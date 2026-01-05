@@ -1,0 +1,8 @@
+check tv
+tec
+it looks like a tv, sir. it also appears to have a cartridge reader built in, along with a game controller attachment.
+What is this container next to it?
+After examination, this container is programmed to open only when you complete various games on the tv.  If you score high enough on a game, you should type "take prize" to take the container's contents for that game.
+Well it sounds like it's time for me to play some games.
+You cannot do that yet, sir. There are no game cartridges here. You will need to find them in order to play the games.
+Aww.

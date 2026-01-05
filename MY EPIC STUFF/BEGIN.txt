@@ -1,0 +1,5 @@
+Welcome to your birthday present!  Alas, if you want your real present, its going to be a lil harder than usual.
+In order to succeed in your quest, you must use a series of commands to guide your person through the world and
+eventually reveal the location of your present.  You can say things like, "move west", "check mailbox",
+"enter/exit house", "take letter", "read letter", "use ___", "use ____ on ____", etc.
+Good Luck.  I suggest you start by getting out of bed...

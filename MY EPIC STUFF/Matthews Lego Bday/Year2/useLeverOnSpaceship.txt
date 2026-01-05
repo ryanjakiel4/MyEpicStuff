@@ -1,0 +1,3 @@
+use lever on spaceship
+tec
+the lever has been added to the spaceship, sir.

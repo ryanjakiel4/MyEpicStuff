@@ -1,0 +1,2 @@
+check road @ station 5
+make it so we cannot dig bricks twice in stations 1 & 0

@@ -1,0 +1,3 @@
+use bricks on road
+tec
+sir, you don't have enough bricks to build a bridge yet.  Go around and dig up some more bricks before trying again.

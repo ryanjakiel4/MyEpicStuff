@@ -1,0 +1,5 @@
+check road
+tec
+you won't be able to cross this road until you build a bridge, sir.
+How am going to be able to build a bridge, tec?
+well, first you need to gather some bricks by using your shovel.  Then just use the bricks on the road and let someone bigger than you handle the building part.

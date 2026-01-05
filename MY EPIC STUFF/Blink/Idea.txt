@@ -1,0 +1,10 @@
+Zelda1-like-world
+have 5 min to beat the game
+like majora's mask
+after 5 min, start back in the same spot, except all progress is saved
+meaning all boses beaten, items gotten, doors opened
+try to see how many "days" it takes to win
+more puzzle focused than fighting focused
+boss battles will turn into space missile battles
+
+no keys, just mouse and click so it can be easily translated into a mobile app

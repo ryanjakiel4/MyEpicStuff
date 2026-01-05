@@ -1,0 +1,3 @@
+take thruster
+tec
+thruster taken.  don't forget to use it on your spaceship!

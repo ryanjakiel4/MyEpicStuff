@@ -1,0 +1,3 @@
+move to station 2
+tec
+You have arrived at station 2. Don't forget to use a "check" command on stations to find out what your surroundings are.

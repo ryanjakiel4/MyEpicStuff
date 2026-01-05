@@ -1,0 +1,3 @@
+move to station 4
+tec
+we cannot go to station 4 as the track is unsafe due to a rock one way, and a wall the other.

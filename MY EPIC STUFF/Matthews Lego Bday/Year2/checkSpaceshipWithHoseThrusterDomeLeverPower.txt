@@ -1,0 +1,4 @@
+check spaceship
+tec
+Your spaceship is ready to take off, sir. Are you ready to leave?
+Definitely, it's time to leave this world and unwrap Ryan's present.

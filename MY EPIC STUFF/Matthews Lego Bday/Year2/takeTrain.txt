@@ -1,0 +1,14 @@
+take train
+tec
+Allow me, sir.
+Tec, how are you gonna move this train onto the track?
+Just believe, sir, that someone bigger than us out there will come to our aid and place the train on the track.
+Okay? Tec, are you running low on battery?
+You created me, sir, you should remember that i run on solar power.
+It's just... you're weird.
+I am a computer.
+(Sigh)
+Sir, now that you have a train, you can now move to other stations. To do this, just type "Move to station ___"
+So, if i wanted to move to station 1, I would type "move to station 1"?
+correct, sir.  Also i have sensed that there are other inhabitants of this world that you may want to interact with.  if so, use the command "talk to guy".
+Cool!

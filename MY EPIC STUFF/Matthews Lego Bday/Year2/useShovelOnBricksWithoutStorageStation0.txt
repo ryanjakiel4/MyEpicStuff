@@ -1,0 +1,6 @@
+use shovel on bricks
+matthew
+Here goes nothing... Hey Look! A gold brick!
+People here may think these bricks are valuable. Best take it now, sir.
+What should I do with the rest of the bricks?
+Well you do not have anywhere to store them right now, sir.  Best come back later and use your shovel on the bricks again when you have somewhere to store them.

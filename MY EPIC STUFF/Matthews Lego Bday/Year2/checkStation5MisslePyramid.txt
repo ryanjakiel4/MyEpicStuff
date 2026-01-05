@@ -1,0 +1,3 @@
+check
+tec
+there's a guy and a pyramid.  If you want to talk to the guy in the pyrimid, type "talk to guy in pyrimid".

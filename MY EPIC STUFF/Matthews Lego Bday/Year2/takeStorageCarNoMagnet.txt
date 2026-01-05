@@ -1,0 +1,4 @@
+take storage car
+tec
+Sir, this storage car has no engine, and without a way of attaching it to your train, we cannot take it.
+Hmm. I'm pretty sure I've seen something I could use to attach this to my train...

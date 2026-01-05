@@ -1,0 +1,10 @@
+take torch
+tec
+Sir, that tree looks pretty high... are you sure you can climb it?
+Tec, c'mon, of course i can.
+Be careful.
+Jeez, who does that computer think i am... can't climb a tree... yeah right i'll show him.  Just a few more branches...
+That branch looks very unstable, sir.
+C'mon, almost there... Got it!... ouch!
+You have fallen.
+Thanks, tec.

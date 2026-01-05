@@ -1,0 +1,3 @@
+take missle car
+tec
+missle car taken. it seems to be missing the missle, so in order to use it, you will need to find a missle to use with it.

@@ -1,0 +1,3 @@
+check spaceship
+tec
+Your spaceship is unable to take off.  You will need to repair it with a new dome windshield, control lever, oxygen hose, thruster, and power supply, sir.
